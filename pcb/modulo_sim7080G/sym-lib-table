@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "901-143-6RFX")(type "KiCad")(uri "/home/mario/Downloads/901-143-6RFX/901-143-6RFX.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA-J-P-X-RA-TH1")(type "KiCad")(uri "/home/mario/Downloads/SMA-J-P-X-RA-TH1/SMA-J-P-X-RA-TH1.kicad_sym")(options "")(descr ""))
+)
