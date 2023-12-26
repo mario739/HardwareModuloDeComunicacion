@@ -1,4 +1,7 @@
 (fp_lib_table
-  (lib (name "901-143-6RFX")(type "KiCad")(uri "/home/mario/Downloads/901-143-6RFX")(options "")(descr ""))
-  (lib (name "SMA-J-P-X-RA-TH1")(type "KiCad")(uri "/home/mario/Downloads/SMA-J-P-X-RA-TH1")(options "")(descr ""))
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/home/mario/Documents/Proyectos_empresa/Projecto_ModuloDeComunicacion/HardwareModuloDeComunicacion/librerias/ul_TXB0108PWR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints2")(type "KiCad")(uri "/home/mario/Documents/Proyectos_empresa/Projecto_ModuloDeComunicacion/HardwareModuloDeComunicacion/librerias/ul_PDTC114EU/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SMA-J-P-X-RA-TH1")(type "KiCad")(uri "/home/mario/Documents/Proyectos_empresa/Projecto_ModuloDeComunicacion/HardwareModuloDeComunicacion/librerias/SMA-J-P-X-RA-TH1")(options "")(descr ""))
+  (lib (name "SIM7080G")(type "KiCad")(uri "/home/mario/Documents/Proyectos_empresa/Projecto_ModuloDeComunicacion/HardwareModuloDeComunicacion/librerias/SIM7080G")(options "")(descr ""))
 )
