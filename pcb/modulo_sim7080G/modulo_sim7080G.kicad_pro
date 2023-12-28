@@ -510,6 +510,10 @@
     [
       "a3b3018c-0f3b-4301-9cd1-247f073552ff",
       "level_shifters"
+    ],
+    [
+      "b472775b-8b2e-4d5d-9c25-41b4df11f470",
+      "antenas"
     ]
   ],
   "text_variables": {}
